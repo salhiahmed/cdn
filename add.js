@@ -1,3 +1,4 @@
-function add(a, b) {
-  return a + b;
+function sayBismiAllah {
+  document.querySelector("body").
+  innerHtml = "بسم الله الرحمان الرحيم"
 }
